@@ -13,11 +13,8 @@
 <style scoped>
 ul{
   list-style-type: none;
-  border: black solid 3px;
-  padding: 0;
-  margin: 0;
-  width: 25%;
-  height: 45%;
+  border: #f8f8f8 solid 3px;
+  color: #f8f8f8;
 
 }
 </style>
