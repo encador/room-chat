@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div id="application">
 
-  </div>
 </template>
 
 <style scoped>
